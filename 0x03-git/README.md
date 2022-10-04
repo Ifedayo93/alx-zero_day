@@ -1,1 +1,1 @@
-Git2 readme
+Mistake resolved
